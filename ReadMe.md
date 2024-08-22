@@ -8,4 +8,9 @@ clone
 add
 commit
 push
-pull
+git config --global user.email "am@growdeatech.com"
+git config --global user.name "am2k-cpu"
+git init
+git add .
+git status
+git commit -m "linux change"
